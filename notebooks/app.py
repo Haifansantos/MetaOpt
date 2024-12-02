@@ -90,9 +90,9 @@ def main():
         # if st.button("Generate EDA Plots"):
         #     eda.eda_visualization(processed_data, task_type, label)
         
-        # # Exploratory Data Analysis
-        # st.write('## Exploratory Data Analysis (EDA)')
-        # eda.eda_visualization(processed_data, task_type, label)
+        # Exploratory Data Analysis
+        st.write('## Exploratory Data Analysis (EDA)')
+        eda.eda_visualization(processed_data, task_type, label)
 
         st.write('## Optimization')
         # Optimization Button
