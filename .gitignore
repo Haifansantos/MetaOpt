@@ -3,9 +3,12 @@ __pycache__/
 *.pyo
 *.pyd
 .env
+# Ignore directories
 eda_plots/
 feature_importance_plots/
-key.json
+
+# Ignore specific files
 Best_KMeans.pkl
 Best_RandomForestCLassifier.pkl
 Best_RandomForestRegressor.pkl
+key.json
