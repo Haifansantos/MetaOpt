@@ -1,9 +1,0 @@
-Flask==3.0.2
-pandas==2.2.1
-matplotlib==3.8.3
-seaborn==0.13.2
-scikit-learn==1.4.1
-google-cloud-storage==2.14.0
-joblib==1.4.2
-mealpy==2.5.3
-numpy==1.24.2
