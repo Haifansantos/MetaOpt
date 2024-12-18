@@ -3,4 +3,9 @@ __pycache__/
 *.pyo
 *.pyd
 .env
+eda_plots/
+feature_importance_plots/
 key.json
+Best_KMeans.pkl
+Best_RandomForestCLassifier.pkl
+Best_RandomForestRegressor.pkl
